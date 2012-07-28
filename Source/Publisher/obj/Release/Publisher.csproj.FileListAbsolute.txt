@@ -1,5 +1,0 @@
-D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Target\Publisher\Publisher.exe
-D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Target\Publisher\Publisher.pdb
-D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Publisher\obj\Release\ResolveAssemblyReference.cache
-D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Publisher\obj\Release\Publisher.exe
-D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Publisher\obj\Release\Publisher.pdb
