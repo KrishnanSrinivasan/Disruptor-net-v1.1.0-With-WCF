@@ -1,0 +1,14 @@
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Common.dll
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Common.pdb
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Disruptor.dll
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\protobuf-net.dll
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Atomic.dll
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Disruptor.pdb
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Disruptor.xml
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\protobuf-net.pdb
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\protobuf-net.xml
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Atomic.pdb
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\bin\Release\Atomic.xml
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\obj\x86\Release\Common.dll
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Common\obj\x86\Release\Common.pdb

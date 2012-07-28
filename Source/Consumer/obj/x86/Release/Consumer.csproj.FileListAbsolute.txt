@@ -1,0 +1,5 @@
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Target\Consumer\Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Target\Consumer\Consumer.pdb
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Consumer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Consumer\obj\x86\Release\Consumer.exe
+D:\Krishnan\Work\Projects\Disruptor\UsingDisruptor2xWithWCF\Consumer\obj\x86\Release\Consumer.pdb
