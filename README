@@ -2,6 +2,7 @@ This is a sample project that shows how the Disruptor-net v1.1.0 can be used wit
 
 The project has the following dependency:
 
-1. Disruptor-net(v1.1.0) 	- https://github.com/odeheurles/Disruptor-net
-2. Redis Client (.Net)		- https://github.com/ServiceStack/ServiceStack.Redis/
-3. Redis Server (Windows) 	- https://github.com/dmajkic/redis/downloads
+1. Disruptor-net(v1.1.0) 		- https://github.com/odeheurles/Disruptor-net
+2. Redis Client (.Net)			- https://github.com/ServiceStack/ServiceStack.Redis/
+3. Redis Server (Windows) 		- https://github.com/dmajkic/redis/downloads
+4. Protobuf(protobuf-net r480.zip) 	- http://code.google.com/p/protobuf-net/
