@@ -6,3 +6,6 @@ The project has the following dependency:
 2. Redis Client (.Net)			- https://github.com/ServiceStack/ServiceStack.Redis/
 3. Redis Server (Windows) 		- https://github.com/dmajkic/redis/downloads
 4. Protobuf(protobuf-net r480.zip) 	- http://code.google.com/p/protobuf-net/
+
+A short write-up of the project is available here:
+http://krishnansrinivasan.wordpress.com/2012/07/29/using-disruptor-net-with-wcf-2/
