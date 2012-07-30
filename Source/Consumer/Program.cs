@@ -26,6 +26,7 @@ namespace Consumer
             if (args == null || args.GetLength(0) < 1)
             {
                 PrintUsage();
+                Console.ReadLine();
                 return;
             }
 
@@ -36,6 +37,7 @@ namespace Consumer
             catch 
             {
                 PrintUsage();
+                Console.ReadLine();
                 return;
             }
 

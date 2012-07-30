@@ -58,12 +58,6 @@
     <Compile Include="Util\ProtoBufSerializer.cs" />
     <Compile Include="Util\ServiceHostExtensions.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Disruptor\Disruptor.csproj">
-      <Project>{37FBDBE1-8524-4489-B082-CC109B0F5EA3}</Project>
-      <Name>Disruptor</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
